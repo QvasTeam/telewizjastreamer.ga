@@ -1,0 +1,981 @@
+# Copyright (C) 2016 ThemeIsle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RokoPhoto 1.1.6\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/RokoPhoto/issues\n"
+"POT-Creation-Date: 2016-12-15 11:31:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeisle Translate Team <friends@themeisle.com>\n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:86
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:90
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:94
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:101
+msgid "Your Message"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:16
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-single.php:16 content.php:17
+msgid "Post By:"
+msgstr ""
+
+#: content-single.php:17 content.php:18
+msgid "Date:"
+msgstr ""
+
+#: content-single.php:19 content.php:19
+msgid "Category:"
+msgstr ""
+
+#: content.php:32
+msgid "Read More"
+msgstr ""
+
+#: footer-frontpage.php:24 footer.php:25
+#: inc/customizer/customizer-footer.php:35
+msgid "Follow Me"
+msgstr ""
+
+#: footer-frontpage.php:25 footer.php:26
+#: inc/customizer/customizer-footer.php:21
+msgid "To get the latest update of me and my works"
+msgstr ""
+
+#: footer-frontpage.php:137 footer.php:138
+#: inc/customizer/customizer-footer.php:174
+msgid "Awesome Photography. All Rights Reserved"
+msgstr ""
+
+#: footer-frontpage.php:143 footer.php:144
+msgid ""
+"<a href=\"https://themeisle.com/themes/rokophoto/\" target=\"_blank\" "
+"rel=\"nofollow\">RokoPhoto</a> powered by <a "
+"href=\"https://wordpress.org/\" target=\"_blank\" "
+"rel=\"nofollow\">WordPress</a>"
+msgstr ""
+
+#: functions.php:60
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:144
+msgid "Home"
+msgstr ""
+
+#: functions.php:264
+msgid "on"
+msgstr ""
+
+#: functions.php:269
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:442
+msgid "Sidebar top"
+msgstr ""
+
+#: functions.php:444 functions.php:453
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: functions.php:451
+msgid "Sidebar bottom"
+msgstr ""
+
+#: header-frontpage.php:41 header.php:41
+msgid "Toggle Navigation"
+msgstr ""
+
+#: header.php:82 inc/customizer/customizer-subheader.php:23
+msgid "Welcome to"
+msgstr ""
+
+#: inc/class/upsell/class-singleton-customizer-info-section.php:79
+msgid "View PRO version"
+msgstr ""
+
+#: inc/class/upsell/class-singleton-customizer-info-section.php:81
+msgid "Get it"
+msgstr ""
+
+#: inc/customizer/customizer-footer-poweredby.php:14
+msgid ""
+"<a href=\"https://themeisle.com/themes/rokophoto/\" target=\"_blank\" "
+"rel=\"nofollow\">RokoPhoto</a> powered by <a "
+"href=\"https://wordpress.org/\" target=\"_blank\" "
+"rel=\"nofollow\">WordPress</a>. All Rights Reserved"
+msgstr ""
+
+#: inc/customizer/customizer-footer-poweredby.php:21
+msgid "Footer Powered By"
+msgstr ""
+
+#: inc/customizer/customizer-footer-poweredby.php:31
+msgid "Disable Social Box"
+msgstr ""
+
+#: inc/customizer/customizer-footer-poweredby.php:40
+msgid "Open links in new tab?"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:17
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:28
+msgid "Social Box Label"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:42
+msgid "Social Box Text"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:56
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:70
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:84
+msgid "Behance URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:99
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:113
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:127
+msgid "Google + URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:141
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:154
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:167
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:181
+msgid "Footer Copyrights"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:19
+msgid "Frontpage: About"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:20
+msgid ""
+"This section allows you to customize the about section that appears on the "
+"front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:26
+msgid "About Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:34
+msgid "Disable About"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:47
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:56
+msgid "About Content"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:61 sections/about.php:11
+msgid "Hello Kitty"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:68
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:75 sections/about.php:12
+msgid "Planet Earth, Milky-way"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:82
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:89 sections/contact.php:15
+msgid "http://www.themeisle.com"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:96
+#: inc/customizer/customizer-frontpage-contact.php:90
+msgid "Website"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:103 sections/about.php:14
+msgid "I love WordPress"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:110
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:117 sections/about.php:15
+msgid ""
+"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy "
+"nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:125
+msgid "Bio"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:134
+msgid "About Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-about.php:147
+#: inc/customizer/customizer-frontpage-contact.php:131
+#: inc/customizer/customizer-frontpage-ribbon.php:54
+msgid "Text"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:19
+msgid "Frontpage: Contact"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:20
+msgid ""
+"This section allows you to customize the contact section that appears on "
+"the front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:26
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:34
+msgid "Disable Contact"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:42
+msgid "Custom Form Shortcode"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:43
+msgid ""
+"If you want to have more options for the contact form, please install and "
+"customize"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:43
+msgid " Pirate Forms "
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:43
+msgid ", and after that, enter here the shortcode [pirate_forms]"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:49 sections/contact.php:11
+msgid "WORK w/ ME"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:56
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:65
+msgid "Contact Details"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:70
+msgid "you@domain.com"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:77
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:91
+msgid "If the field is empty, it will take the website from About section."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:101
+msgid "Contact Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:114
+#: inc/customizer/customizer-frontpage-ribbon.php:105
+#: inc/customizer/customizer-frontpage-vision.php:70
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:145
+msgid "Fields Placeholder"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-contact.php:161
+#: inc/customizer/customizer-frontpage-ribbon.php:139
+msgid "Button (Hover)"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:19
+msgid "Frontpage: Portfolio"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:20
+msgid ""
+"This section allows you to customize the portfolio section that appears on "
+"the front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:26
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:32
+msgid "Portfolio Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:40
+msgid "Disable Portfolio"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:49
+msgid "Link portfolio to single page?"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:55 inc/portfolio.php:16
+#: sections/portfolio.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:62
+msgid "Section Heading"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:69
+#: sections/portfolio.php:12
+msgid "Recent pictures I have taken. Check them out!"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:76
+msgid "Section Sub-heading"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:90
+msgid "Item Count"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:105
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-portfolio.php:122
+msgid "Header Text"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:19
+msgid "Frontpage: Ribbon"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:20
+msgid ""
+"This section allows you to customize the ribbon section that appears on the "
+"front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:26
+msgid "Ribbon Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:34
+msgid "Disable Ribbon"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:42
+msgid "Ribbon Content"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:47 sections/ribbon.php:10
+msgid "Want to talk? You can contact by me clicking on..."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:61 sections/ribbon.php:11
+msgid "CONTACT"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:68
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:82
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:92
+msgid "Ribbon Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-ribbon.php:122
+msgid "Text/Button"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:19
+msgid "Frontpage: Slider"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:20
+msgid ""
+"This section allows you to customize the slider that appears on the "
+"front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:27
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:35
+msgid "Disable Slider"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:47
+msgid "Slide Speed"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:48
+msgid "In seconds"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:64
+msgid "Slider Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:74
+msgid "Banner opacity"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:86
+#: inc/customizer/customizer-frontpage-vision.php:88
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:96
+#: inc/customizer/customizer-frontpage-slider.php:114 sections/slider.php:15
+msgid "Slide One"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:107
+#: inc/customizer/customizer-frontpage-slider.php:142
+#: inc/customizer/customizer-frontpage-slider.php:177
+#: inc/customizer/customizer-frontpage-slider.php:213
+#: inc/customizer/customizer-frontpage-slider.php:250
+msgid "Slide Image"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:121
+#: inc/customizer/customizer-frontpage-slider.php:156
+#: inc/customizer/customizer-frontpage-slider.php:191
+#: inc/customizer/customizer-frontpage-slider.php:228
+#: inc/customizer/customizer-frontpage-slider.php:264
+msgid "Slide Text"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:131
+#: inc/customizer/customizer-frontpage-slider.php:149 sections/slider.php:16
+msgid "Slide Two"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:166
+#: inc/customizer/customizer-frontpage-slider.php:184 sections/slider.php:17
+msgid "Slide Three"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:201
+#: inc/customizer/customizer-frontpage-slider.php:221 sections/slider.php:18
+msgid "Slide Four"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-slider.php:239
+#: inc/customizer/customizer-frontpage-slider.php:257 sections/slider.php:19
+msgid "Slide Five"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:19
+msgid "Frontpage: Vision"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:20
+msgid ""
+"This section allows you to customize the vision section that appears on the "
+"front-page of your site."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:26
+msgid "Vision Settings"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:34
+msgid "Disable Vision"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:47
+msgid "Vision Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:56
+msgid "Vision Colors"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:99
+msgid "Vision One"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:107
+msgid "Disable First Slide"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:113 sections/vision.php:14
+msgid "Design To Showcase"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:120
+#: inc/customizer/customizer-frontpage-vision.php:178
+#: inc/customizer/customizer-frontpage-vision.php:236
+msgid "First Line"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:127
+#: inc/customizer/customizer-frontpage-vision.php:185
+#: inc/customizer/customizer-frontpage-vision.php:243 sections/vision.php:15
+#: sections/vision.php:18 sections/vision.php:21
+msgid "Photography"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:134
+#: inc/customizer/customizer-frontpage-vision.php:192
+#: inc/customizer/customizer-frontpage-vision.php:250
+msgid "Second Line"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:141 sections/vision.php:16
+msgid "The need to capture the moment and freeze it for life."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:148
+#: inc/customizer/customizer-frontpage-vision.php:206
+#: inc/customizer/customizer-frontpage-vision.php:264
+msgid "Third Line"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:157
+msgid "Vision Two"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:165
+msgid "Disable Second Slide"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:171 sections/vision.php:17
+msgid "Capture The Moment"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:199 sections/vision.php:19
+msgid "Quality photography that preserves treasured memories."
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:215
+msgid "Vision Three"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:223
+msgid "Disable Third Slide"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:229 sections/vision.php:20
+msgid "Still-life Images"
+msgstr ""
+
+#: inc/customizer/customizer-frontpage-vision.php:257 sections/vision.php:22
+msgid "Take alot of photos not war."
+msgstr ""
+
+#: inc/customizer/customizer-loading-animations.php:14
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer-loading-animations.php:20
+msgid "Disable loading animations?"
+msgstr ""
+
+#: inc/customizer/customizer-misc-colors.php:22
+msgid "Menu Background (After sliding)"
+msgstr ""
+
+#: inc/customizer/customizer-misc-colors.php:34
+msgid "Menu Items"
+msgstr ""
+
+#: inc/customizer/customizer-misc-colors.php:46
+msgid "Menu Items (Hover)"
+msgstr ""
+
+#: inc/customizer/customizer-pro-manager.php:24
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/customizer-pro-manager.php:28
+#: inc/customizer/customizer-theme-info.php:40
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer/customizer-pro-manager.php:32
+#: inc/customizer/customizer-theme-info.php:44
+msgid "Leave us a review (it will help us)"
+msgstr ""
+
+#: inc/customizer/customizer-site-logo.php:15
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer/customizer-site-logo.php:25
+msgid "Site Logo Image"
+msgstr ""
+
+#: inc/customizer/customizer-subheader.php:19
+msgid "Sub-Header"
+msgstr ""
+
+#: inc/customizer/customizer-subheader.php:30
+msgid "Sub-Header Title"
+msgstr ""
+
+#: inc/customizer/customizer-text-controls.php:22
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO "
+"version</a> add a Slider on frontpage!"
+msgstr ""
+
+#: inc/customizer/customizer-text-controls.php:33
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO "
+"version</a> add a Portfolio section on frontpage!"
+msgstr ""
+
+#: inc/customizer/customizer-text-controls.php:44
+msgid ""
+"Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO "
+"version</a> add a Contact section on frontpage!"
+msgstr ""
+
+#: inc/customizer/customizer-theme-info.php:22
+msgid "Theme info"
+msgstr ""
+
+#: inc/customizer/customizer-theme-info.php:36
+msgid " View PRO version"
+msgstr ""
+
+#: inc/portfolio.php:17
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/portfolio.php:18
+msgid "All Items"
+msgstr ""
+
+#: inc/portfolio.php:19
+msgid "View Item"
+msgstr ""
+
+#: inc/portfolio.php:20
+msgid "Add New Item"
+msgstr ""
+
+#: inc/portfolio.php:21
+msgid "Add New"
+msgstr ""
+
+#: inc/portfolio.php:22
+msgid "Edit Item"
+msgstr ""
+
+#: inc/portfolio.php:23
+msgid "Update Item"
+msgstr ""
+
+#: inc/portfolio.php:24
+msgid "Search Item"
+msgstr ""
+
+#: inc/portfolio.php:25
+msgid "Not found"
+msgstr ""
+
+#: inc/portfolio.php:26
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/portfolio.php:29
+msgid "portfolio"
+msgstr ""
+
+#: inc/portfolio.php:30
+msgid "Your portfolio items."
+msgstr ""
+
+#: loop-meta.php:18
+msgid "Home / <a href=\"%2$s\">%1$s</a> / %3$s"
+msgstr ""
+
+#: loop-meta.php:22
+msgid "Home / Portfolio / %1$s"
+msgstr ""
+
+#: loop-meta.php:26 loop-meta.php:32
+msgid "Home / %1$s"
+msgstr ""
+
+#: loop-meta.php:50
+msgid "Posts By: %1$s"
+msgstr ""
+
+#: loop-meta.php:56
+msgid "F d, Y"
+msgstr ""
+
+#: loop-meta.php:58
+msgid "F Y"
+msgstr ""
+
+#: loop-meta.php:60
+msgid "Y"
+msgstr ""
+
+#: loop-meta.php:68
+msgid "Archives"
+msgstr ""
+
+#: loop-meta.php:72
+msgid "Ouch!"
+msgstr ""
+
+#: sections/about.php:13
+msgid "www.themeisle.com"
+msgstr ""
+
+#: sections/contact.php:69
+msgid "Your Name *"
+msgstr ""
+
+#: sections/contact.php:69
+msgid "Please enter your name."
+msgstr ""
+
+#: sections/contact.php:73
+msgid "Your Email *"
+msgstr ""
+
+#: sections/contact.php:73
+msgid "Please enter your email address."
+msgstr ""
+
+#: sections/contact.php:77
+msgid "Your Phone *"
+msgstr ""
+
+#: sections/contact.php:77
+msgid "Please enter your phone number."
+msgstr ""
+
+#: sections/contact.php:83
+msgid "Your Message *"
+msgstr ""
+
+#: sections/contact.php:83
+msgid "Please enter a message."
+msgstr ""
+
+#: sections/contact.php:90
+msgid "Send Message"
+msgstr ""
+
+#: sections/portfolio.php:64 sections/portfolio.php:81
+#: sections/portfolio.php:94 sections/portfolio.php:107
+#: sections/portfolio.php:120 sections/portfolio.php:133
+#: sections/portfolio.php:146
+msgid "View More"
+msgstr ""
+
+#: sections/portfolio.php:77
+msgid "Item 1"
+msgstr ""
+
+#: sections/portfolio.php:78 sections/portfolio.php:91
+#: sections/portfolio.php:104 sections/portfolio.php:117
+#: sections/portfolio.php:130 sections/portfolio.php:143
+msgid "Hi, my name is description."
+msgstr ""
+
+#: sections/portfolio.php:90
+msgid "Item 2"
+msgstr ""
+
+#: sections/portfolio.php:103
+msgid "Item 3"
+msgstr ""
+
+#: sections/portfolio.php:116
+msgid "Item 4"
+msgstr ""
+
+#: sections/portfolio.php:129
+msgid "Item 5"
+msgstr ""
+
+#: sections/portfolio.php:142
+msgid "Item 6"
+msgstr ""
+
+#: sections/portfolio.php:162
+msgid "Portfolio Title"
+msgstr ""
+
+#: sections/portfolio.php:164
+msgid ""
+"<p>Use this area to describe your project. Lorem ipsum dolor sit amet, "
+"consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus "
+"dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae "
+"cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>\n"
+"\t\t\t\t\t\t\t\t<p><strong>Want these theme for your portfolio?</strong> "
+"RokoPhoto is a bootstrap based awesome photography portfolio template. "
+"Creatively designed to present your artwork beautifully and clean. Catch "
+"more visitors and potential clients by using Solstice Photography/Portfolio "
+"Template to showcase your photography and crafts. This is mobile responsive "
+"template, very easy to use and well-documented codes.</p>"
+msgstr ""
+
+#: sections/portfolio.php:166 sections/portfolio.php:203
+msgid " Close"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "RokoPhoto"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/rokophoto/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"RokoPhoto is theme made for photographers with a stylish front-page for you "
+"to photograph some of your best work. This theme also includes 2 different "
+"types of sliders, portfolio section, as well as built-in contact form."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blog"
+msgstr ""
+
+#: comments.php:25
+#. translators: %s: post title
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:29
+#. translators: 1: number of comments, 2: post title
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/portfolio.php:14
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:15
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
